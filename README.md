@@ -32,5 +32,5 @@ This project aims to build a machine learning pipeline for image classification,
 
 ## How to Use
 1. Clone the repository and navigate to the project directory.
-2. Upload the data from this link 
+2. Upload the data from this link https://drive.google.com/file/d/10VZTCo00nZKN4CKE-SE3WZJMkIAvx_zS/view?usp=sharing
 3.change the path accordingly
