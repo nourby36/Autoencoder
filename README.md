@@ -1,6 +1,8 @@
 # Project Overview
 
 This project aims to build a machine learning pipeline for image classification, focusing on detecting adulterated red chili powder images. The notebook includes image processing, data preprocessing, model training, and evaluation steps.
+![image](https://github.com/user-attachments/assets/0c15c9f5-4f9d-4d92-8260-3d20e2bf9232)
+
 
 ## Key Components
 
